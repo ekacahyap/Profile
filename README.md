@@ -1,0 +1,5 @@
+ - 👋 Hi, I’m Eka Cahya Prasetyanto
+ - 👀 I’m interested in Business Intelligence and Analytics
+ - 🌱 I’m currently learning Data Analysis
+ - 📫 How to reach me by email eka.cahyap@gmail.com
+ - 🔗 Connect with me in LinkedIn https://www.linkedin.com/in/ekacp
